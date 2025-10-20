@@ -1,5 +1,16 @@
 /* CSS styles */
 h1 {
-font-family: Impact, sans-serif;
-color: #CE5937;
+font-family: Serif, Garamond;
+color: #82896e;
 }
+h2 {
+  font-family: Serif, Garamond
+    color: #ffdeec;
+}
+h3 {
+  font-family: Serif, Garamond
+    color: #70675c;
+}
+selector {background-color: #c9b9a4}
+p{font-size: 18px}
+ P{border: 2px}
