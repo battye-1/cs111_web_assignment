@@ -13,4 +13,8 @@ h3 {
 }
 selector {background-color: #c9b9a4}
 p{font-size: 18px}
- P{border: 2px}
+.element {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
