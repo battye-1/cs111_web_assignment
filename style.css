@@ -14,7 +14,7 @@ h3 {
 selector {background-color: #c9b9a4}
 p{font-size: 18px}
 .element {
-  border-width: 1px;
+  border-width: 12px;
   border-style: solid;
   border-color: black;
 }
